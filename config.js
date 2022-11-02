@@ -20,9 +20,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281356484612']
-global.ownernomer = "6281356484612"
-global.premium = ['6281356484612']
+global.owner = ['6288291577991']
+global.ownernomer = "6288291577991"
+global.premium = ['6288291577991']
 global.packname = '𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝑩𝒚'
 global.ownername = "𝑫𝒂𝒏𝒕𝒂 𝑫𝒆𝒗"
 global.author = '𝑫𝒂𝒏𝒕𝒂 𝑫𝒆𝒗'
